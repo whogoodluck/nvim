@@ -7,6 +7,8 @@ return {
         "lua_ls",
         "pyright",
         "ts_ls",
+        "tailwindcss",
+        "dockerls"
       },
       automatic_installation = true,
     })
